@@ -7,6 +7,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class Example4Application {
 
 	public static void main(String[] args) {
+		int i=10;
 		SpringApplication.run(Example4Application.class, args);
 	}
 
