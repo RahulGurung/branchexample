@@ -5,12 +5,11 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
 public class Example4Application {
-
 	public static void main(String[] args)
 	{
 		int y=100;
 		System.out.println("login-otp developed!");
+		int i=10;
 		SpringApplication.run(Example4Application.class, args);
-	}
-
+  }
 }
